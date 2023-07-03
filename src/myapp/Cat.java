@@ -12,7 +12,7 @@ public class Cat {
 
     public Cat(String name){
         this.name = name;
-        age = 2;
+        age = 1;
     }
 
     public String getName() {
